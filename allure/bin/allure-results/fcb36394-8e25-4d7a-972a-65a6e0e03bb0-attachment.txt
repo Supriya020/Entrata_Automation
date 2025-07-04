@@ -1,0 +1,306 @@
+Clicking footer link: https://www.entrata.com/products/prospectportal
+Visited: https://www.entrata.com/products/prospectportal
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/leadmanager
+Visited: https://www.entrata.com/products/leadmanager
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/digital-marketing
+Visited: https://www.entrata.com/products/digital-marketing
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/marketing-strategy
+Visited: https://www.entrata.com/products/marketing-strategy
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/reputationadvisor
+Visited: https://www.entrata.com/products/reputationadvisor
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/residentpay
+Visited: https://www.entrata.com/products/residentpay
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/access-connect
+Visited: https://www.entrata.com/products/access-connect
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/message-center
+Visited: https://www.entrata.com/products/message-center
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/facility-management
+Visited: https://www.entrata.com/products/facility-management
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/sitetablet
+Visited: https://www.entrata.com/products/sitetablet
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/leasing-center
+Visited: https://www.entrata.com/products/leasing-center
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/accounting
+Visited: https://www.entrata.com/products/accounting
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/residentverify
+Visited: https://www.entrata.com/products/residentverify
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/budgeting
+Visited: https://www.entrata.com/products/budgeting
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/job-costing
+Visited: https://www.entrata.com/products/job-costing
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/procure-to-pay
+Visited: https://www.entrata.com/products/procure-to-pay
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/billpay
+Visited: https://www.entrata.com/products/billpay
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/residentutility
+Visited: https://www.entrata.com/products/residentutility
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/utility-expense-management
+Visited: https://www.entrata.com/products/utility-expense-management
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/utility-procurement
+Visited: https://www.entrata.com/products/utility-procurement
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/sales-tax-audits
+Visited: https://www.entrata.com/products/sales-tax-audits
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/sales-tax-audits
+Visited: https://www.entrata.com/products/sales-tax-audits
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/business-consulting
+Visited: https://www.entrata.com/products/business-consulting
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/training
+Visited: https://www.entrata.com/products/training
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/residentportal
+Visited: https://www.entrata.com/products/residentportal
+Popup closed.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/resident-services
+Visited: https://www.entrata.com/products/resident-services
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/homebody-rewards
+Visited: https://www.entrata.com/products/homebody-rewards
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/rent-reporting
+Visited: https://www.entrata.com/products/rent-reporting
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/renters-insurance
+Visited: https://www.entrata.com/products/renters-insurance
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/deposit-alternative
+Visited: https://www.entrata.com/products/deposit-alternative
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://ai.entrata.com/
+Visited: https://ai.entrata.com/
+Popup closed.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/leasing-ai
+Visited: https://www.entrata.com/products/leasing-ai
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/renewals-ai
+Visited: https://www.entrata.com/products/renewals-ai
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/payments-ai
+Visited: https://www.entrata.com/products/payments-ai
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/bi
+Visited: https://www.entrata.com/products/bi
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/revenue-intelligence
+Visited: https://www.entrata.com/products/revenue-intelligence
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/srm
+Visited: https://www.entrata.com/products/srm
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/reporting
+Visited: https://www.entrata.com/products/reporting
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/solutions/solutions-overview
+Visited: https://www.entrata.com/solutions/solutions-overview
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/solutions/multifamily
+Visited: https://www.entrata.com/solutions/multifamily
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/solutions/student
+Visited: https://www.entrata.com/solutions/student
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/solutions/affordable
+Visited: https://www.entrata.com/solutions/affordable
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/solutions/military
+Visited: https://www.entrata.com/solutions/military
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/solutions/commercial
+Visited: https://www.entrata.com/solutions/commercial
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/solutions/manufactured-housing
+Visited: https://www.entrata.com/solutions/manufactured-housing
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/solutions/operating-system
+Visited: https://www.entrata.com/solutions/operating-system
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://ai.entrata.com/
+Visited: https://ai.entrata.com/
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/products/business-consulting
+Visited: https://www.entrata.com/products/business-consulting
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://summit.entrata.com/
+Visited: https://summit.entrata.com/
+Popup closed.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/resources
+Visited: https://www.entrata.com/resources
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/blog
+Visited: https://www.entrata.com/blog
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/careers
+Visited: https://www.entrata.com/careers
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/entrata-cares
+Visited: https://www.entrata.com/entrata-cares
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://www.entrata.com/partners
+Visited: https://www.entrata.com/partners
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://legal.entrata.com/
+Visited: https://legal.entrata.com/
+Popup closed.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://legal.entrata.com/security
+Visited: https://legal.entrata.com/security
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://docs.entrata.com/api/v1/documentation
+Visited: https://docs.entrata.com/api/v1/documentation
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://marketplace.entrata.com/
+Visited: https://marketplace.entrata.com/
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: https://docs.entrata.com/theme-gallery
+Visited: https://docs.entrata.com/theme-gallery
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/press/blackstone
+Clicking footer link: tel:18007002097
+Visited: https://www.entrata.com/press/blackstone
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/products/message-center
+Clicking footer link: mailto:sales@entrata.com
+Visited: https://www.entrata.com/products/message-center
+No popup appeared or could not close popup.
+No alert present.
+Returned to: https://www.entrata.com/
+Reached sales@entrata.com, quitting browser.
