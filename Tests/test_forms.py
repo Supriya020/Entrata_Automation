@@ -53,7 +53,7 @@ def test_pages_flow(driver):
         first="Supri",
         last="Zangruche",
         email="suprizangru@gmail.com",
-        phone="8197705992",
+        phone="819090959",
         company="BHEL",
         title="Engineer",
         unit_count="101 - 300",

@@ -46,15 +46,4 @@ How to Run Tests:
 6. **Generate an HTML report:**
    - `pytest --html=report.html`
 
-How to Push Changes to Your Repository:
---------------------------------------
-1. Check the status of your changes:
-   - `git status`
-2. Add the files you want to commit:
-   - `git add .`  (to add all changes)
-3. Commit your changes with a message:
-   - `git commit -m "Describe your changes here"`
-4. Push your changes to the remote repository:
-   - `git push origin main`  (replace `main` with your branch name if different)
-
 
